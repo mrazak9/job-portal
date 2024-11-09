@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * @method bool hasRole(string|array $roles)
+ */
+
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
